@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виктор Гладков](https://up.htmlacademy.ru/javascript/20/user/46452).
-* Наставник: `Неизвестно`.
+* Наставник: [Артик Ман](https://htmlacademy.ru/profile/id1445657).
 
 ---
 
